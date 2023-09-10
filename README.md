@@ -14,7 +14,7 @@ Myntra is a major Indian fashion e-commerce company headquartered in Bengaluru, 
 The company was founded in 2007 to sell personalized gift items. In May 2014, Myntra.com was acquired by Flipkart.
 we gave our best to clone this website.
 
-**Images of our project.**
+**Images of our project.** 
 
 **Homepage.**
 
