@@ -1,35 +1,15 @@
-**A collaborative project from Masai school.**
+**A collaborative project **
 
 *Myntra clone.*
 
 
-First of all, I want to thank the Masai school for giving me this opportunity to work on a collaborative project and enhance my coding skills.
-we learned a lot while working on this project. we failed so many times and we never give up, in the last we finally made our Project successfully.
+First of all, I want to thank the Ineubytes for giving me this opportunity to work on a collaborative project and enhance my coding skills.
+we learned a lot while working on this project. I failed so many times but  never give up, in the last i finally made our Project successfully.
 
-**Team-Members.**
-
-Md Sahil Amaan.
-
-Amit Prakash.
-
-Sumit Bokshi.
-
-Sagar Pawar.
-
-Aadarsh Mukati.
-
-Prajjwal pal.
-
-**In the construct week.**
-
-This is our first collaborative project from the Masai school, and we got only 1 week to complete it, 
-so it was a challenging journey for us. we faced a lot of challenges because we don’t work before on any collaborative project and 
-we have to complete it on time, so we first decide to study our website and then divide our work. we learned a lot while working together, 
-we failed a lot of times but we never give up, we used to help each other solve the problems of our project, and in the last, we finally made our project successfully.
 
 **Description of Project.**
 
-The Masai school give our team to clone the website Myntra. 
+My project is to clone the website Myntra. 
 Myntra is a major Indian fashion e-commerce company headquartered in Bengaluru, Karnataka, India. 
 The company was founded in 2007 to sell personalized gift items. In May 2014, Myntra.com was acquired by Flipkart.
 we gave our best to clone this website.
@@ -111,11 +91,6 @@ Github: GitHub, Inc. is a provider of Internet hosting for software development 
 https://github.com/Md-sahil-a/myntra this is our project git hub link.
 We all became proficient in reading the code of team members. and we learned How to work and communicate with a team. and how to keep motivated each other throughout the problems.
 
-**Blog Link**
-
-https://mdsahilamaan2017.medium.com/a-collaborative-project-from-masai-school-e255331475
-
-**At last, I would like to thank our mentors and my team members for their support & guidance during the project.**
 
 
 
